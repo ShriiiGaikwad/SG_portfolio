@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": ".",
+  "homepage": "https://ShriiiGaikwad.github.io/SG_portfolio",
   "version": "0.1.0",
   "scripts": {
     "predeploy": "npm run build",
